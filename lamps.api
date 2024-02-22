@@ -26,7 +26,7 @@
     "prijs": 59.99,
     "actief": true,
     "datum": "2024-02-01",
-    "foto": "solaris.jpg",
+    "foto": "https://github.com/kubra-kzlk/lamps.api/blob/main/solaris.jpeg",
     "kleur": "geel",
     "stijlen": ["ecologisch", "futuristisch", "industrieel"],
     "fabrikant": {
@@ -44,7 +44,7 @@
     "prijs": 39.99,
     "actief": false,
     "datum": "2023-12-31",
-    "foto": "flora.jpg",
+    "foto": "https://github.com/kubra-kzlk/lamps.api/blob/main/flora.jpeg",
     "kleur": "roze",
     "stijlen": ["klassiek", "vintage", "bohemian"],
     "fabrikant": {
@@ -62,7 +62,7 @@
     "prijs": 69.99,
     "actief": true,
     "datum": "2024-02-15",
-    "foto": "aurora.jpg",
+    "foto": "https://github.com/kubra-kzlk/lamps.api/blob/main/aurora.jpeg",
     "kleur": "multicolor",
     "stijlen": ["magisch", "speels", "fantasievol"],
     "fabrikant": {
@@ -80,7 +80,7 @@
     "prijs": 29.99,
     "actief": true,
     "datum": "2024-01-31",
-    "foto": "nova.jpg",
+    "foto": "https://github.com/kubra-kzlk/lamps.api/blob/main/nova.jpeg",
     "kleur": "zwart",
     "stijlen": ["eenvoudig", "functioneel", "technologisch"],
     "fabrikant": {
@@ -98,7 +98,7 @@
     "prijs": 44.99,
     "actief": true,
     "datum": "2024-02-10",
-    "foto": "stella.jpg",
+    "foto": "https://github.com/kubra-kzlk/lamps.api/blob/main/stella.jpeg",
     "kleur": "goud",
     "stijlen": ["glamoureus", "luxe", "elegant"],
     "fabrikant": {
@@ -116,7 +116,7 @@
     "prijs": 34.99,
     "actief": false,
     "datum": "2023-12-15",
-    "foto": "terra.jpg",
+    "foto": "https://github.com/kubra-kzlk/lamps.api/blob/main/terra.jpeg",
     "kleur": "bruin",
     "stijlen": ["organisch", "rustiek", "zen"],
     "fabrikant": {
@@ -134,7 +134,7 @@
     "prijs": 54.99,
     "actief": true,
     "datum": "2024-02-20",
-    "foto": "zara.jpg",
+    "foto": " https://github.com/kubra-kzlk/lamps.api/blob/main/zara.jpeg",
     "kleur": "blauw",
     "stijlen": ["cool", "artistiek", "origineel"],
     "fabrikant": {
@@ -152,7 +152,7 @@
     "prijs": 24.99,
     "actief": true,
     "datum": "2024-01-20",
-    "foto": "lila.jpg",
+    "foto": "https://github.com/kubra-kzlk/lamps.api/blob/main/lila.jpeg ",
     "kleur": "roze",
     "stijlen": ["schattig", "meisjesachtig", "muzikaal"],
     "fabrikant": {
@@ -170,7 +170,7 @@
     "prijs": 19.99,
     "actief": true,
     "datum": "2024-01-25",
-    "foto": "rex.jpg",
+    "foto": "https://github.com/kubra-kzlk/lamps.api/blob/main/rex.jpeg",
     "kleur": "groen",
     "stijlen": ["stoer", "jongensachtig", "dierlijk"],
     "fabrikant": {
