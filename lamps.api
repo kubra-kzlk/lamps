@@ -8,7 +8,7 @@
     "prijs": 49.99,
     "actief": true,
     "datum": "2024-01-15",
-    "foto": "luna.jpg",
+    "foto": "https://raw.githubusercontent.com/kubra-kzlk/lamps.api/main/luna.jpeg",
     "kleur": "wit",
     "stijlen": ["modern", "minimalistisch", "scandinavisch"],
     "fabrikant": {
