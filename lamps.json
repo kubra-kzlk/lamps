@@ -26,7 +26,7 @@
     "prijs": 59.99,
     "actief": true,
     "datum": "2024-02-01",
-    "foto": "https://github.com/kubra-kzlk/lamps.api/blob/main/solaris.jpeg",
+    "foto": "https://raw.githubusercontent.com/kubra-kzlk/lamps.api/blob/main/solaris.jpeg",
     "kleur": "geel",
     "stijlen": ["ecologisch", "futuristisch", "industrieel"],
     "fabrikant": {
