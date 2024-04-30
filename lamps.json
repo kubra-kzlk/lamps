@@ -64,7 +64,7 @@
     "actief": true,
     "datum": "2024-02-15",
     "foto": "https://raw.githubusercontent.com/kubra-kzlk/lamps.api/main/aurora.jpeg",
-    "kleur": "multicolor",
+    "kleur": "purple",
     "stijlen": ["magisch", "speels", "fantasievol"],
     "fabrikant": {
       "id": 104,
